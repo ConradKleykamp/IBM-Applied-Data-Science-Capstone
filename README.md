@@ -1,4 +1,5 @@
 # IBM-Applied-Data-Science-Capstone
+![image](https://github.com/user-attachments/assets/00a1035d-514d-48fb-982e-fdfcfb9df90b)
 
 This repository includes all the work that was completed as part of IBM's Applied Data Science Capstone course. The files included here are:
 - 1 Data Collection API
